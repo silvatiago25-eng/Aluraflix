@@ -56,3 +56,6 @@ p {
     opacity: 1.0;
     border: 10x solid green
 }
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
